@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Periodic Table</title>
+<div style="text-align: center;" >
+<label><strong>Periodic Table</strong></label>
+</div>
+
+</head>
+<body>
+    <table border="" hight="120px" width="90%" style="text-align: center;">
+    <tr>
+        <td style="background-color: brown;">H</td>
+        <td colspan="16" style="background-color: black;"></td>
+        <td style="background-color: brown;">He</td>
+    </tr>
+    <tr>
+        <td style="background-color: brown;">Li</td>
+        <td style="background-color: brown;">Be</td>
+        <td colspan="10" style="background-color: black;"></td>
+        <td style="background-color: rgb(164, 196, 100);">B</td>
+        <td style="background-color: rgb(164, 196, 100);">C</td>
+        <td style="background-color: rgb(164, 196, 100);">N</td>
+        <td style="background-color: rgb(164, 196, 100);">O</td>
+        <td style="background-color: rgb(164, 196, 100);">F</td>
+        <td style="background-color: rgb(164, 196, 100);">Ne</td>
+    </tr>
+    <tr>
+        <td style="background-color: brown;">Na</td>
+        <td style="background-color: brown;">Mg</td>
+        <td colspan="10" style="background-color: black;"></td>
+        <td style="background-color: rgb(164, 196, 100);">A1</td>
+        <td style="background-color: rgb(164, 196, 100);">Si</td>
+        <td style="background-color: rgb(164, 196, 100);">P</td>
+        <td style="background-color: rgb(164, 196, 100);">S</td>
+        <td style="background-color: rgb(164, 196, 100);">C1</td>
+        <td style="background-color: rgb(164, 196, 100);">Ar</td>
+    </tr>
+    <tr>
+        <td style="background-color: brown;">K</td>
+        <td style="background-color: brown;">Ca</td>
+        <td style="background-color: rgb(131, 131, 238);">Sc</td>
+        <td style="background-color: rgb(131, 131, 238);">Ti</td>
+        <td style="background-color: rgb(131, 131, 238);">V</td>
+        <td style="background-color: rgb(131, 131, 238);">Cr</td>
+        <td style="background-color: rgb(131, 131, 238);">Mn</td>
+        <td style="background-color: rgb(131, 131, 238);">Fe</td>
+        <td style="background-color: rgb(131, 131, 238);">Co</td>
+        <td style="background-color: rgb(131, 131, 238);">Ni</td>
+        <td style="background-color: rgb(131, 131, 238);">Cu</td>
+        <td style="background-color: rgb(131, 131, 238);">Zn</td>
+        <td style="background-color: rgb(164, 196, 100);">Ga</td>
+        <td style="background-color: rgb(164, 196, 100);">Ge</td>
+        <td style="background-color: rgb(164, 196, 100);">As</td>
+        <td style="background-color: rgb(164, 196, 100);">Se</td>
+        <td style="background-color: rgb(164, 196, 100);">Br</td>
+        <td style="background-color: rgb(164, 196, 100);">Kr</td>
+        
+    </tr>
+    <tr>
+        <td style="background-color: brown;">Rb</td>
+        <td style="background-color: brown;">Sr</td>
+        <td style="background-color: rgb(131, 131, 238);">Y</td>
+        <td style="background-color: rgb(131, 131, 238);">Zr</td>
+        <td style="background-color: rgb(131, 131, 238);">Nb</td>
+        <td style="background-color: rgb(131, 131, 238);">Mo</td>
+        <td style="background-color: rgb(131, 131, 238);">Tc</td>
+        <td style="background-color: rgb(131, 131, 238);">Ru</td>
+        <td style="background-color: rgb(131, 131, 238);">Rh</td>
+        <td style="background-color: rgb(131, 131, 238);">Pd</td>
+        <td style="background-color: rgb(131, 131, 238);">Ag</td>
+        <td style="background-color: rgb(131, 131, 238);">Cd</td>
+        <td style="background-color: rgb(164, 196, 100);">In</td>
+        <td style="background-color: rgb(164, 196, 100);">Sn</td>
+        <td style="background-color: rgb(164, 196, 100);">Sb</td>
+        <td style="background-color: rgb(164, 196, 100);">Te</td>
+        <td style="background-color: rgb(164, 196, 100);">I</td>
+        <td style="background-color: rgb(164, 196, 100);">Xe</td>
+    </tr>
+    <tr>
+        <td style="background-color: brown;">Cs</td>
+        <td style="background-color: brown;">Ba</td>
+        <td style="background-color: rgb(131, 131, 238);">Lu</td>
+        <td style="background-color: rgb(131, 131, 238);">Hf</td>
+        <td style="background-color: rgb(131, 131, 238);">Ta</td>
+        <td style="background-color: rgb(131, 131, 238);">W</td>
+        <td style="background-color: rgb(131, 131, 238);">Re</td>
+        <td style="background-color: rgb(131, 131, 238);">Os</td>
+        <td style="background-color: rgb(131, 131, 238);">Ir</td>
+        <td style="background-color: rgb(131, 131, 238);">Pt</td>
+        <td style="background-color: rgb(131, 131, 238);">Au</td>
+        <td style="background-color: rgb(131, 131, 238);">Hg</td>
+        <td style="background-color: rgb(164, 196, 100);">T1</td>
+        <td style="background-color: rgb(164, 196, 100);">Pb</td>
+        <td style="background-color: rgb(164, 196, 100);">Bi</td>
+        <td style="background-color: rgb(164, 196, 100);">Po</td>
+        <td style="background-color: rgb(164, 196, 100);">At</td>
+        <td style="background-color: rgb(164, 196, 100);">Rn</td>
+    </tr>
+    <tr>
+        <td style="background-color: brown;">Fr</td>
+        <td style="background-color: brown;">Ra</td>
+        <td style="background-color: rgb(131, 131, 238);">Lr</td>
+        <td style="background-color: rgb(131, 131, 238);">Rf</td>
+        <td style="background-color: rgb(131, 131, 238);">Db</td>
+        <td style="background-color: rgb(131, 131, 238);">Sg</td>
+        <td style="background-color: rgb(131, 131, 238);">Bh</td>
+        <td style="background-color: rgb(131, 131, 238);">Hs</td>
+        <td style="background-color: rgb(131, 131, 238);">Mt</td>
+        <td style="background-color: rgb(131, 131, 238);">Ds</td>
+        <td style="background-color: rgb(131, 131, 238);">Rg</td>
+        <td style="background-color: rgb(131, 131, 238);">Cn</td>
+        <td style="background-color: rgb(164, 196, 100);">Nh</td>
+        <td style="background-color: rgb(164, 196, 100);">F1</td>
+        <td style="background-color: rgb(164, 196, 100);">Mc</td>
+        <td style="background-color: rgb(164, 196, 100);">Lv</td>
+        <td style="background-color: rgb(164, 196, 100);">Ts</td>
+        <td style="background-color: rgb(164, 196, 100);">Og</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: black;"></td>
+        
+        <td style="background-color: rgb(116, 214, 116)">La</td>
+        <td style="background-color: rgb(116, 214, 116)">Ce</td>
+        <td style="background-color: rgb(116, 214, 116)">Pr</td>
+        <td style="background-color: rgb(116, 214, 116)">Nd</td>
+        <td style="background-color: rgb(116, 214, 116)">Pm</td>
+        <td style="background-color: rgb(116, 214, 116)">Sm</td>
+        <td style="background-color: rgb(116, 214, 116)">Eu</td>
+        <td style="background-color: rgb(116, 214, 116)">Gd</td>
+        <td style="background-color: rgb(116, 214, 116)">Tb</td>
+        <td style="background-color: rgb(116, 214, 116)">Dy</td>
+        <td style="background-color: rgb(116, 214, 116)">Ho</td>
+        <td style="background-color: rgb(116, 214, 116)">Er</td>
+        <td style="background-color: rgb(116, 214, 116)">Tm</td>
+        <td style="background-color: rgb(116, 214, 116)">Yb</td>
+        <td colspan="2" style="background-color: black;"></td>
+        
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: black;"></td>
+        <td style="background-color: rgb(116, 214, 116)">Ac</td>
+        <td style="background-color: rgb(116, 214, 116)">Th</td>
+        <td style="background-color: rgb(116, 214, 116)">Pa</td>
+        <td style="background-color: rgb(116, 214, 116)">U</td>
+        <td style="background-color: rgb(116, 214, 116)">Np</td>
+        <td style="background-color: rgb(116, 214, 116)">Pu</td>
+        <td style="background-color: rgb(116, 214, 116)">Am</td>
+        <td style="background-color: rgb(116, 214, 116)">Cm</td>
+        <td style="background-color: rgb(116, 214, 116)">Bk</td>
+        <td style="background-color: rgb(116, 214, 116)">Cf</td>
+        <td style="background-color: rgb(116, 214, 116)">Es</td>
+        <td style="background-color: rgb(116, 214, 116)">Fm</td>
+        <td style="background-color: rgb(116, 214, 116)">Md</td>
+        <td style="background-color: rgb(116, 214, 116)">No</td>
+        <td colspan="2" style="background-color: black;"></td>
+    </tr>
+   
+    </table>
+    <br>
+    <form>
+        <label>First Name</label><input type="Text" placeholder="Your First Name">
+    <br>
+        <label>Last Name</label><input type="Text" placeholder="your Last Name">
+        <br>
+        <label>Adress</label><textarea name="" id="" rows="" cols=""></textarea>
+        <br>
+        <label for="">E-mail</label> <input type="email">
+       <br>
+        <label for="">Student:</label>
+        <label for="Yes">Yes</label> <input id="Yes" type="checkbox" name="Student">
+        <label for="No">No</label><input id="No" type="checkbox" name="Student">
+        <br>
+        <label for="">Subjects:</label>
+        <label for="Chemistry">Chemistry</label><input id="Chemistry" type="radio" name="Subjects">
+        <label for="Physics">Physics</label><input id="Physics" type="radio" name="Subjects">
+         <br>
+        <input type="submit">
+    </form>
+</body>
+</html>
