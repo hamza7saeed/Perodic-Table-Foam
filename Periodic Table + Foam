@@ -157,7 +157,11 @@
     </tr>
    
     </table>
+    
     <br>
+    <label style="text-align: end;"><strong>Student Foam</strong></label>
+    <br>
+    
     <form>
         <label>First Name</label><input type="Text" placeholder="Your First Name">
     <br>
